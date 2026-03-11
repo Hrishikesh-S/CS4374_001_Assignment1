@@ -1,1 +1,1 @@
-# CS4374_001_Assignment1
+# CS4374.001 Assignment 1
